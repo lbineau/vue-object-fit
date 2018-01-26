@@ -1,7 +1,7 @@
 {
   "name": "vue-object-fit",
   "description": "A Vue.js Plugin",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": {
     "name": "Lory Bineau",
     "email": "trust_evil@hotmail.fr"
@@ -42,5 +42,9 @@
     "vue-template-compiler": "^2.1.6",
     "webpack": "^2.1.0-beta.28",
     "webpack-merge": "^1.1.2"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/lbineau/vue-object-fit.git"
   }
 }
